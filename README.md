@@ -18,7 +18,7 @@ This set of projects utilizes **Spring Boot**, **MySQL**, **Docker**, and **Kube
 
 6. [microdemo-spring-configuration](https://github.com/dmanias/microdemo-spring-configuration): A demonstration of Spring configuration in microservices.
 
-## Asynchronous-Microservices
+## Asynchronous Microservices
 
 In this real-world example, we explore a multi-module Maven project where a producer fetches messages from Wikimedia and sends them to Kafka. The consumer then processes these messages and stores them in MySQL. This project is built using **Spring Boot**, **MySQL**, and **Kafka**.
 
@@ -26,7 +26,7 @@ Check it out: [Asynchronous-Microservices](https://github.com/dmanias/Asynchrono
 
 Feel free to explore the repositories, experiment with the code, and learn from the examples provided. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
 
-## Golang Logs Audit Demo
+## Golang Demo
 
 This is a log audit service built in Golang. The service aggregates events and allows users to run queries on them. Events are indexed by their invariant parts, and the variant parts are stored together under the name "data." The events endpoints are protected with bearer token authentication. In the store event procedure, if the data fails to be stored in the database, it is stored in a temporary storage.
 This project is built using **Golang**, **MongoDB**, **Mongo Express**, **Mongo Express**, **Docker**, **Docker Compose**, **Swagger**, **Prometheus**.
