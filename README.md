@@ -25,3 +25,13 @@ In this real-world example, we explore a multi-module Maven project where a prod
 Check it out: [Asynchronous-Microservices](https://github.com/dmanias/Asynchronous-Microservices)
 
 Feel free to explore the repositories, experiment with the code, and learn from the examples provided. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
+
+## Golang Logs Audit Demo
+
+This is a log audit service built in Golang. The service aggregates events and allows users to run queries on them. Events are indexed by their invariant parts, and the variant parts are stored together under the name "data." The events endpoints are protected with bearer token authentication. In the store event procedure, if the data fails to be stored in the database, it is stored in a temporary storage.
+This project is built using **Golang**, **MongoDB**, **Mongo Express**, **Mongo Express**, **Docker**, **Docker Compose**, **Swagger**, **Prometheus**.
+
+
+Check it out: [Golang Logs Audit Demo](https://github.com/dmanias/logs-audit)
+
+Feel free to explore the repositories, experiment with the code, and learn from the examples provided. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
