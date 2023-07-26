@@ -12,7 +12,7 @@ This set of projects utilizes **Spring Boot**, **MySQL**, **Docker**, and **Kube
 
 3. [ProductService](https://github.com/dmanias/ProductService): A microservice managing product-related operations.
 
-4. [OrderService](https://github.com/dmanias/OrderService): A microservice responsible for order processing.
+4. [OrderService](https://github.com/dmanias/OrderService): A microservice responsible for order processing, with extended testing.
 
 5. [ms-initial-setup](https://github.com/dmanias/ms-initial-setup): A starter project to quickly set up new microservices.
 
