@@ -26,7 +26,7 @@ Check it out: [Asynchronous-Microservices](https://github.com/dmanias/Asynchrono
 
 Feel free to explore the repositories, experiment with the code, and learn from the examples provided. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
 
-## gRPC Spring Boot Demo
+## gRPC Spring Boot Multimodule Maven Demo
 
 Explore the power of gRPC with Spring Boot in this demo project. gRPC is a high-performance, open-source framework developed by Google. The main advantage of gRPC is that it uses protocol buffers by default as its message format. This project provides a simple example of how to use gRPC with Spring Boot.
 
