@@ -26,9 +26,11 @@ Check it out: [Asynchronous-Microservices](https://github.com/dmanias/Asynchrono
 
 Feel free to explore the repositories, experiment with the code, and learn from the examples provided. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
 
-## gRPC Spring Boot Multimodule Maven Demo
+## gRPC Spring Boot Multimodule Maven Demo with Elasticsearch Integration
 
-Explore the power of gRPC with Spring Boot in this demo project. gRPC is a high-performance, open-source framework developed by Google. The main advantage of gRPC is that it uses protocol buffers by default as its message format. This project provides a simple example of how to use gRPC with Spring Boot.
+Explore the power of gRPC with Spring Boot in this demo project, now enhanced with the addition of Elasticsearch for logging and data analysis. gRPC is a high-performance, open-source framework developed by Google. The main advantage of gRPC is that it uses protocol buffers by default as its message format.
+
+With the latest addition of Elasticsearch, a powerful, open-source distributed search and analytics engine, the demo is now able to log each gRPC request. This provides valuable insights into the usage of your gRPC services, making it a powerful tool for debugging and monitoring.
 
 Check it out: [gRPC Demo](https://github.com/dmanias/grpcDemo)
 
